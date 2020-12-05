@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "832644594094",
+    "firebase_url": "https://chill-bro-5df3e.firebaseio.com",
+    "project_id": "chill-bro-5df3e",
+    "storage_bucket": "chill-bro-5df3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832644594094:android:2c386bbb8ba346dae5f03f",
+        "android_client_info": {
+          "package_name": "com.BharatTiwari.chill_bro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832644594094-mpkmllsnij9b366iq5bsh8khu783jo0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnhatQuAOFECOnvjvpnjMTIawg6DNtUFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832644594094-mpkmllsnij9b366iq5bsh8khu783jo0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
