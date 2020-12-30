@@ -279,7 +279,7 @@ class _HomePageState extends State<HomePage> {
                                       children: [
                                         for (var product in products)
                                           if (product["category"] ==
-                                              "https://chill-bro-api.herokuapp.com/api/category/${category["id"]}/")
+                                              "https://your-own-api/category/${category["id"]}/")
                                             MovieContainer(product: product),
                                       ],
                                     ),
