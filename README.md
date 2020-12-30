@@ -1,17 +1,15 @@
 # chill_bro
 
-A new Flutter project.
+# This is an Entertainment App. It can Play Live Tv channels, Classic Cartoons like Tom and jerry , Movies and More. It is Completely Controlled By API. It has a Very Beautiful and simple UI. It has Features Like Full Screen Video, we can change the speed of Video as well. it Also Plays Live Tv channels, It can Search For You as well. 
+## Featured Channels and Movies, All Things can be filtered by category or search. Details page, filtered data page, All are controlled BY API.
 
-## Getting Started
+# This Project is Published On Playstore.
 
-This project is a starting point for a Flutter application.
+# [PlayStore Link](https://play.google.com/store/apps/details?id=com.BharatTiwari.chill_bro)
 
-A few resources to get you started if this is your first Flutter project:
+ <a href="https://play.google.com/store/apps/details?id=com.BharatTiwari.chill_bro" rel="some text">![Foo](https://snaphappymom.com/wp-content/uploads/2016/01/Google-Play-Store-Icon.png)</a>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# chill-bro
+***
+
+### You can Use This For Learning Puspose Only As this Product is on playstore So Don't Copy It.
