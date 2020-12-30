@@ -55,7 +55,7 @@ class _FilteredDataPageState extends State<FilteredDataPage> {
           children: [
             for (var product in widget.products)
               if (product["category"] ==
-                  "https://chill-bro-api.herokuapp.com/api/category/${widget.category["id"]}/")
+                  "https://your-own-api/category/${widget.category["id"]}/")
                 MovieContainer(
                   product: product,
                 ),
